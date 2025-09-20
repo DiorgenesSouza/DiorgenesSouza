@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá! Bem-vindo ao meu GitHub 🖐️
 
-<!--
-**DiorgenesSouza/DiorgenesSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Sou desenvolvedor Java e gostaria de compartilhar meus projetos no GitHub com você! Aqui, você encontrará projetos que demonstram um pouco da minha experiência com a linguagem Java e seus frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diorgenes-souza-0978a8369/)
+[![Fale comigo no WhatsApp](https://img.shields.io/badge/Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/+556183181747)
+
+
+## Tecnologias que mais uso
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,postgres,angular" />
+  </a>
+</p>
+  
+ <!-- https://github.com/tandpfun/skill-icons#icons-list -->
+
