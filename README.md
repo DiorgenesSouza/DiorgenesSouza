@@ -7,7 +7,7 @@ Sou desenvolvedor Java e gostaria de compartilhar meus projetos no GitHub com vo
 <br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diorgenes-souza-0978a8369/)
-[![Fale comigo no WhatsApp](https://img.shields.io/badge/Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/+556183181747)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=556183181747)
 
 
 ## Tecnologias que mais uso
